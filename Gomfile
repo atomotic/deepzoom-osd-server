@@ -1,0 +1,3 @@
+gom 'bitbucket.org/tebeka/nrsc'
+gom 'bitbucket.org/tebeka/nrsc/nrsc'
+gom 'github.com/remyoudompheng/go-misc/zipfs'
